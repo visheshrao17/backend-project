@@ -91,12 +91,5 @@ Key dependencies include:
 
 For a full list, see `package.json`.
 
-## Contributing
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m "Description of changes"`).
-4. Push to your fork and submit a pull request.
-
 ## License
 This project is licensed under MIT License.
